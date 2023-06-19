@@ -9,7 +9,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, ɪ ᴀᴍ ɴᴇxᴛ ɢᴇɴᴇ
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Hariomsingh31u'>ʜᴀʀɪᴏᴍ</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Hariomsingh31u'>sophia</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -151,7 +151,7 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ʜᴀʀɪᴏᴍ
+• ꜰᴜʟʟ ɴᴀᴍᴇ : sophia
 • ᴜꜱᴇʀɴᴀᴍᴇ : @Hariomsingh31u
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Hariomsingh31u'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
